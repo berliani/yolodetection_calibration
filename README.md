@@ -15,6 +15,9 @@ Repository ini dikembangkan untuk mendukung penelitian pengukuran jarak aktual o
 - 📌 **Mode Cari Objek Sekitar**  
   Fitur untuk mencari objek tertentu di lingkungan sekitar secara cepat.
 
+- 🔎 **Mode Kalibrasi**  
+  Fitur untuk digunakan di awal sebelum aplikasi digunakan untuk konfigurasi kamera dengan mengarahkan kertas hvs A4 dengan jarak 50cm dari kamera handphone.
+
 ## 🛠 Teknologi dan Library
 
 - **Flutter**
